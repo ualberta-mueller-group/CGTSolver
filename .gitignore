@@ -1,0 +1,7 @@
+.*
+*.[oa]
+*.pdf
+solver_main
+db/
+
+!.gitignore
